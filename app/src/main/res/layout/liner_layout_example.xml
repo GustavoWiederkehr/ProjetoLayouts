@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="278dp"
+        android:layout_height="100dp"
+        android:text="Botão 1" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="272dp"
+        android:layout_height="103dp"
+        android:text="Botão 1" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="274dp"
+        android:layout_height="102dp"
+        android:text="Botão 1" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Texto 1" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="275dp"
+        android:layout_height="99dp"
+        android:text="Botão 1" />
+
+</LinearLayout>
